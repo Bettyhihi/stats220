@@ -21,7 +21,7 @@ I am interest in **painting**🎨, **cooking**🥣, and **photography**.📷
 2. [PUBG: BATTLEGROUNDS😋](https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/)
 
 ## Frist Mission💚
-This is the first time that I use **GitHub** to work. We are working on make a **meme** by R and show it on a markdown file.💻
+This is the first time that I use **GitHub** to work. We are working on make a **meme** and **GIF** by R and show it on a markdown file.💻
 
 ## Ending💜
 Nice to meet you guys! I am looking forward to getting to know you all in this class!😁
